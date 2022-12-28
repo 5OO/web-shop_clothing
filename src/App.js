@@ -21,7 +21,6 @@ const App = () => {
             id: 5,
             title: 'Mens',
         },
-
     ]
 
     return (
